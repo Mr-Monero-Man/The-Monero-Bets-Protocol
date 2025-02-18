@@ -11,4 +11,7 @@ paly. Remember that you have to accept that:
 written in this document, for this version of monero bets.
 The Rules of *MONERO BETS IS* what is written in this Document, and the listing ONLY!
 Because that is the only thing being offered in *MONERO BETS*. Thank you for playing!!
-have
+
+
+
+<h4 align="center"> Have Fun </h4>

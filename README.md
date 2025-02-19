@@ -1,4 +1,7 @@
 # The-Monero-Bets-Protocol
+
+https://rentry.co/MONERO_BETS
+
 __Protocol ManuEl of operation and for various situations__
 
 ## Summery
